@@ -44,7 +44,7 @@ pip install -r requirements.txt
 打开Jupyter Notebook。
 ```bash
 jupyter notebook CIFAR10.ipynb
-···
+```
 依次运行Notebook中的单元格，以在CIFAR-10数据集上训练和评估模型。
 
 ## Notebook结构
